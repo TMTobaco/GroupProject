@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_navigation_home"
+        android:title="@string/menu_navigation_home"
+        android:icon="@drawable/ic_house_outline"></item>
+
+    <item android:id="@+id/menu_navigation_notification"
+        android:title="@string/menu_navigation_notification"
+        android:icon="@drawable/ic_alarm_bell"></item>
+
+    <item android:id="@+id/menu_navigation_sales"
+        android:title="@string/menu_navigation_sales"
+        android:icon="@drawable/ic_light_bulb"></item>
+
+    <item android:id="@+id/menu_navigation_list_store"
+        android:title="@string/menu_navigation_list_store"
+        android:icon="@drawable/ic_location_marker"></item>
+
+    <item android:id="@+id/menu_navigation_setting"
+        android:title="@string/menu_navigation_setting"
+        android:icon="@drawable/ic_setting_cogwheel"></item>
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Collapsing</string>
+    <string name="user_name_main">Lê Ngô Giang</string>
+    <string name="email_name_main">lengogiang@gmail.com</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="menu_navigation_home">Trang chủ</string>
+    <string name="menu_navigation_notification">Thông báo</string>
+    <string name="menu_navigation_sales">Khuyến mãi của bạn</string>
+    <string name="menu_navigation_list_store">Danh sách chi nhánh</string>
+    <string name="menu_navigation_setting">Cài đặt</string>
+</resources>

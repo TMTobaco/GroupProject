@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_img_view_user_header_main_5dp">5dp</dimen>
+    <dimen name="height_header_main_100dp">200dp</dimen>
+    <dimen name="name_user_main_25sp">25sp</dimen>
+    <dimen name="email_user_main_15sp">15sp</dimen>
+    <dimen name="margin_top_header_main_5dp">5dp</dimen>
+    <dimen name="height_img_collapsing_main_200dp">200dp</dimen>
+    <dimen name="txt_header_size_14sp">14sp</dimen>
+    <dimen name="subtitle_header_56dp">56dp</dimen>
+    <dimen name="margin_left_header_16dp">16dp</dimen>
+    <dimen name="avatar_width_header_64dp">64dp</dimen>
+    <dimen name="margin_top_header_40dp">40dp</dimen>
+</resources>

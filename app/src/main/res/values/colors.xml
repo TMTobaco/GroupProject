@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorHeader">#08D9D6</color>
+    <color name="colorBackgroundMenu">#FF2E63</color>
+    <color name="colorTextMenu">#252A34</color>
+    <color name="colorAppBar">#222222</color>
+    <color name="colorStatusBar">#111111</color>
+    <color name="colorButtonBookItem">#ff0000</color>
+    <color name="colorBoxItem">#131313</color>
+    <color name="colorFontColorPizza">#f3b525</color>
+    <color name="colorTextNavigation">#000</color>
+</resources>
